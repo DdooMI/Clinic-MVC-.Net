@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\Clinic1\\Clinic1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED0691-3A66-4AAE-86CA-24C3A868C151}|Clinic1\\Clinic1.csproj|d:\\uni\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\clinic1\\clinic1\\clinic1\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ED0691-3A66-4AAE-86CA-24C3A868C151}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED0691-3A66-4AAE-86CA-24C3A868C151}|Clinic1\\Clinic1.csproj|d:\\uni\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\clinic1\\clinic1\\clinic1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ED0691-3A66-4AAE-86CA-24C3A868C151}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED0691-3A66-4AAE-86CA-24C3A868C151}|Clinic1\\Clinic1.csproj|d:\\uni\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\clinic1\\clinic1\\clinic1\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ED0691-3A66-4AAE-86CA-24C3A868C151}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED0691-3A66-4AAE-86CA-24C3A868C151}|Clinic1\\Clinic1.csproj|d:\\uni\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\clinic1\\clinic1\\clinic1\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7ED0691-3A66-4AAE-86CA-24C3A868C151}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ED0691-3A66-4AAE-86CA-24C3A868C151}|Clinic1\\Clinic1.csproj|d:\\uni\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\clinic1\\clinic1\\clinic1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ED0691-3A66-4AAE-86CA-24C3A868C151}|Clinic1\\Clinic1.csproj|solutionrelative:clinic1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\Clinic1\\Clinic1\\Clinic1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\Clinic1\\Clinic1\\Clinic1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Clinic1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:39:07.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\Clinic1\\Clinic1\\Clinic1\\Views\\Home\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Clinic1\\Views\\Home\\SignUp.cshtml",
+              "ToolTip": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\Clinic1\\Clinic1\\Clinic1\\Views\\Home\\SignUp.cshtml",
+              "RelativeToolTip": "Clinic1\\Views\\Home\\SignUp.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAIwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T21:39:07.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\Clinic1\\Clinic1\\Clinic1\\Models\\SignUp.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\SignUp.cs",
+              "ToolTip": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\Clinic1\\Clinic1\\Clinic1\\Models\\SignUp.cs",
+              "RelativeToolTip": "Clinic1\\Models\\SignUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:39:07.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\Clinic1\\Clinic1\\Clinic1\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\Reservation.cs",
+              "ToolTip": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\Clinic1\\Clinic1\\Clinic1\\Models\\Reservation.cs",
+              "RelativeToolTip": "Clinic1\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:39:07.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\Clinic1\\Clinic1\\Clinic1\\Models\\LogIn.cs",
+              "RelativeDocumentMoniker": "Clinic1\\Models\\LogIn.cs",
+              "ToolTip": "D:\\UNI\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 .net\\Clinic1\\Clinic1\\Clinic1\\Models\\LogIn.cs",
+              "RelativeToolTip": "Clinic1\\Models\\LogIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:39:07.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

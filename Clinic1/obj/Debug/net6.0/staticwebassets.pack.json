@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Clinic1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Clinic1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\1.png",
+      "PackagePath": "staticwebassets\\Img\\1.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\2.png",
+      "PackagePath": "staticwebassets\\Img\\2.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\6.png",
+      "PackagePath": "staticwebassets\\Img\\6.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\7.png",
+      "PackagePath": "staticwebassets\\Img\\7.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\8.png",
+      "PackagePath": "staticwebassets\\Img\\8.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\9.png",
+      "PackagePath": "staticwebassets\\Img\\9.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\LNP-Banner-images-1800-x-1125-6-3-1024x640.jpg",
+      "PackagePath": "staticwebassets\\Img\\LNP-Banner-images-1800-x-1125-6-3-1024x640.jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\Osteoporosis-Blog-Image-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Osteoporosis-Blog-Image-2.jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\Screenshot (1).png",
+      "PackagePath": "staticwebassets\\Img\\Screenshot (1).png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\Screenshot 2023-03-02 145838.png",
+      "PackagePath": "staticwebassets\\Img\\Screenshot 2023-03-02 145838.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\Screenshot 2023-03-03 175452.png",
+      "PackagePath": "staticwebassets\\Img\\Screenshot 2023-03-03 175452.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\Screenshot 2023-03-04 144300.png",
+      "PackagePath": "staticwebassets\\Img\\Screenshot 2023-03-04 144300.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\Screenshot 2023-03-05 143442.png",
+      "PackagePath": "staticwebassets\\Img\\Screenshot 2023-03-05 143442.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\Screenshot 2023-03-05 143744.png",
+      "PackagePath": "staticwebassets\\Img\\Screenshot 2023-03-05 143744.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\Screenshot 2023-03-05 143844.png",
+      "PackagePath": "staticwebassets\\Img\\Screenshot 2023-03-05 143844.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\Screenshot 2023-03-05 144812.png",
+      "PackagePath": "staticwebassets\\Img\\Screenshot 2023-03-05 144812.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\WIN_20230430_12_07_43_Pro.jpg",
+      "PackagePath": "staticwebassets\\Img\\WIN_20230430_12_07_43_Pro.jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\anxiety-topic-page-tile_tcm7-308512.jpg",
+      "PackagePath": "staticwebassets\\Img\\anxiety-topic-page-tile_tcm7-308512.jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\dreamstime_m_132829448-1024x683.jpg",
+      "PackagePath": "staticwebassets\\Img\\dreamstime_m_132829448-1024x683.jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\flower.jpg",
+      "PackagePath": "staticwebassets\\Img\\flower.jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\fs-stroke.jpg",
+      "PackagePath": "staticwebassets\\Img\\fs-stroke.jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\h.jpeg",
+      "PackagePath": "staticwebassets\\Img\\h.jpeg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\pxfuel (2).jpg",
+      "PackagePath": "staticwebassets\\Img\\pxfuel (2).jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\pxfuel (3).jpg",
+      "PackagePath": "staticwebassets\\Img\\pxfuel (3).jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\pxfuel (4).jpg",
+      "PackagePath": "staticwebassets\\Img\\pxfuel (4).jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\pxfuel (5).jpg",
+      "PackagePath": "staticwebassets\\Img\\pxfuel (5).jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\pxfuel.jpg",
+      "PackagePath": "staticwebassets\\Img\\pxfuel.jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\shutterstock_1409500496-e1604669942103.webp",
+      "PackagePath": "staticwebassets\\Img\\shutterstock_1409500496-e1604669942103.webp"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\stress-main.png",
+      "PackagePath": "staticwebassets\\Img\\stress-main.png"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\Img\\what-is-depression.jpg",
+      "PackagePath": "staticwebassets\\Img\\what-is-depression.jpg"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\UNI\\مشاريع\\مشروع .net\\Clinic1\\Clinic1\\Clinic1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Clinic1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Clinic1.props",
+      "PackagePath": "build\\Clinic1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Clinic1.props",
+      "PackagePath": "buildMultiTargeting\\Clinic1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Clinic1.props",
+      "PackagePath": "buildTransitive\\Clinic1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
